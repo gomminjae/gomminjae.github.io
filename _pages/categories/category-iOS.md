@@ -1,7 +1,7 @@
 ---
 title: "Post about iOS"
 layout: archive
-permalink: /categories/blogging
+permalink: /categories/iOS
 author_profile: true
 sidebar_main: true
 ---
