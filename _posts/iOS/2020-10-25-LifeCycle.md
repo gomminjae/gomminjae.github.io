@@ -1,6 +1,5 @@
 ---
 title: "ViewController의 생명주기"
-subtitle: "ios app lifecycle"
 categories:
  - iOS
  last_modified_at: 2020-10-25T13:00:00+09:00
