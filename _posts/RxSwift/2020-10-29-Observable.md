@@ -1,6 +1,6 @@
 ---
 title: "RxSwift Observable"
-excerpt: "Life cycle of VC"
+excerpt: "RxSwift Observable"
 categories: 
  - RxSwift
 last_modified_at: 2020-10-29T13:00:00+09:00
