@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 title: "Swift Subscripts"
 excerpt: "subscripts 공부"
 categories:
  - iOS
 last_modified_at: 2020-10-25T13:00:00+09:00
+=======
+title: "NotificationCenter"
+excerpt: "notificationCenter with observer"
+categories:
+ - iOS
+last_modified_at: 2020-12-09T13:00:00+09:00
+>>>>>>> 2e56fb71d49d6723731fdc656fcd7aaedf6b668c
 toc: true
 ---
 # Norification Center
@@ -42,6 +50,7 @@ NotificationCenter.default.addObserver(self, selector: #selector(btnTapped()), n
 @objc func btnTapped() {
   label.layer.isHidden = true 
 }
+
 ```
 
 ***notificationCenter에서 noti라는 이벤트가 감지되면 Observer은 이벤트를 받아 label을 숨기도록 작성하였습니다.***
