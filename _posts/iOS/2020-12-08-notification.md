@@ -6,11 +6,7 @@ categories:
 last_modified_at: 2020-10-25T13:00:00+09:00
 toc: true
 ---
-
-
-
 # Norification Center
-
 >   ***Notification에 등록된 Event가 발생하면 해당 Event를 처리할 Observer들이 Event에 대한 행동을 취하는 것이 NotificationCenter의 방식입니다. Notification이 앱 내에서 이벤트 메시지를 보내면 어디서든 이 observer가 받아서 처리합니다.***
 
 ## - Notification Center 
