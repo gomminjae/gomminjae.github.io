@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://gomminjae.github.io/sitemap.xml
