@@ -42,6 +42,7 @@ NotificationCenter.default.addObserver(self, selector: #selector(btnTapped()), n
 @objc func btnTapped() {
   label.layer.isHidden = true 
 }
+
 ```
 
 ***notificationCenter에서 noti라는 이벤트가 감지되면 Observer은 이벤트를 받아 label을 숨기도록 작성하였습니다.***
