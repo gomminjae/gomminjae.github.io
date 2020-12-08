@@ -1,9 +1,9 @@
 ---
-title: "Swift Subscripts"
-excerpt: "subscripts 공부"
+title: "NotificationCenter"
+excerpt: "notificationCenter with observer"
 categories:
  - iOS
-last_modified_at: 2020-10-25T13:00:00+09:00
+last_modified_at: 2020-12-09T13:00:00+09:00
 toc: true
 ---
 # Norification Center
