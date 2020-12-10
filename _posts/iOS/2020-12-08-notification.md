@@ -1,11 +1,4 @@
 ---
-<<<<<<< HEAD
-title: "Swift Subscripts"
-excerpt: "subscripts 공부"
-categories:
- - iOS
-last_modified_at: 2020-10-25T13:00:00+09:00
-=======
 title: "NotificationCenter"
 excerpt: "notificationCenter with observer"
 categories:
