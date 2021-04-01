@@ -3,7 +3,7 @@ title: "SwiftUI View Stack"
 excerpt: "SwiftUI 기본"
 categories: 
  - SwiftUI
-last_modified_at: 2021-3-28T13:00:00+16:00
+last_modified_at: 2021-03-28T13:00:00+09:00
 toc: true
 ---
 
