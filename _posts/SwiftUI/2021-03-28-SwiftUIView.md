@@ -3,7 +3,7 @@ title: "SwiftUI View Stack"
 excerpt: "SwiftUI 기본"
 categories: 
  - SwiftUI
-last_modified_at: 2021-3-028T13:00:00+16:00
+last_modified_at: 2021-03-28T13:00:00+09:00
 toc: true
 ---
 
@@ -133,5 +133,5 @@ var body: some View {
 
 이것은 offset을 이용해서 중첩시켰기때문에 ZStack뷰의 크기와 위치는 는 처음 생성된 빨간색뷰와 같습니다. 
 
-![스크린샷 2021-03-28 오후 5.43.25](/Users/gwonminjae/Library/Application Support/typora-user-images/스크린샷 2021-03-28 오후 5.43.25.png)
+![스크린샷 2021-03-28 오후 5.43.25](/Users/gwonminjae/Library/Application Support/typora-user-images/스크린샷 2021-03-28 오후 5.43.25.png)
 
