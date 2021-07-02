@@ -16,7 +16,7 @@ toc: true
 
 위 그림과 같이 객체에서 이벤트가 발생하면 Notification Center로 Post를 하고 그 이후 등록된 observer들에게 전달해줍니다. 
 
-**NotificationCenter은 Delegate패턴(지정된 오브젝트 끼리만 상호작용)와는 달리 앱 어디든, 어느 객체와도 상호작용이 가능합니다. **
+**NotificationCenter은 Delegate패턴(지정된 오브젝트 끼리만 상호작용)와는 달리 앱 어디든, 어느 객체와도 상호작용이 가능합니다.**
 
 ## - Usage
 
@@ -39,11 +39,9 @@ toc: true
 
 ```Swift
 NotificationCenter.default.addObserver(self, selector: #selector(btnTapped()), name: "noti", object: nil)
-
 @objc func btnTapped() {
   label.layer.isHidden = true 
 }
-
 ```
 
 ***notificationCenter에서 noti라는 이벤트가 감지되면 Observer은 이벤트를 받아 label을 숨기도록 작성하였습니다.***
