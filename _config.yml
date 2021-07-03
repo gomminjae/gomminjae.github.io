@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Racoon"
   avatar           : "galaxy.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS개발을 공부하고 있습니다."
+  bio              : "iOS를 공부하고 있습니다."
   location         : "Republic of korea"
   email            :
   links:
