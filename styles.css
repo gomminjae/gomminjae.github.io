@@ -6,7 +6,7 @@
 
 body {
     background: #fff;
-    color: #000;
+    color: #237563;
     font-family: Helvetica, Arial;
     text-align: center;
 }
@@ -20,7 +20,7 @@ body {
 }
 
 header {
-    background-color: #eee;
+    background-color: #237563;
 }
 
 header .wrapper {
