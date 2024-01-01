@@ -41,6 +41,7 @@ header .site-name {
 
 nav {
     margin-top: 20px;
+    background-color: red;
 }
 
 nav li {
