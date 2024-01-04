@@ -40,6 +40,16 @@ header .site-name {
 /*    color: #000;*/
     font-weight: bold;
 }
+.header-background {
+    background-image: url('/images/road.jpeg'); /* 배경 이미지 경로에 맞게 수정하세요 */
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+
 header .banner-image {
     max-width: 80%;
     margin-bottom: 6px;
@@ -250,5 +260,21 @@ footer {
 img {
     overflow-clip-margin: content-box;
     overflow: clip;
+}
+
+
+/*Tag Colors*/
+.swift-tag {
+    background-color: #f26d50;
+}
+.xcode-tag {
+    background-color: #0080ff;
+}
+
+.swiftUI-tag {
+    background-color: #ff0080;
+}
+.ci/cd-tag {
+    background-color: #008040;
 }
 
