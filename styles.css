@@ -40,13 +40,6 @@ header .site-name {
 /*    color: #000;*/
     font-weight: bold;
 }
-.header-background {
-    background-image: url('/images/road.jpeg'); /* 배경 이미지 경로에 맞게 수정하세요 */
-    background-size: 100% 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100%;
-}
 
 
 
