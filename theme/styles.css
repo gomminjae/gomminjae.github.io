@@ -286,7 +286,7 @@ img {
     margin-right: 5px;
 }
 .CI/CD-tag {
-    background-color: #008040;
+    background-color: red;
     display: inline-block;
     color: #ddd;
     padding: 4px 6px;
