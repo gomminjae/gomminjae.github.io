@@ -168,18 +168,6 @@ pre {
     border: 1px solid rgba(214, 214, 214, 0.2);
 }
 
-::marker {
-    unicode-bidi: isolate;
-    font-variant-numeric: tabular-nums;
-    text-transform: none;
-    text-align: start !important;
-    text-align-last: start !important;
-}
-li {
-    text-indent: 0 !important;
-    margin-left: 0 !important;
-}
-
 
 * {
     margin: 0;
@@ -221,6 +209,10 @@ header .site-name {
     font-size: 1.5em;
     /*    color: #000;*/
     font-weight: bold;
+}
+
+ol {
+    list-style-type: disc;
 }
 
 
