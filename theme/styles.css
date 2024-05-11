@@ -136,7 +136,16 @@ body {
 
 header {
     background-color: #141414;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     
+}
+
+.logo {
+  font-size: 24px;
+  
 }
 
 header .wrapper {
@@ -226,14 +235,15 @@ nav a:hover {
 }
 
 nav li a {
-    /*    display: inline-block;*/
-    /*    margin: 0 7px;*/
-    /*    line-height: 1.5em;*/
-    display: inline-block;
-    text-align: center;
+/*    display: inline-block;*/
+/*    text-align: center;*/
     padding: 10px;
-    text-decoration: none;
+/*    text-decoration: none;*/
     border-radius: 5px;
+color: #fff; /* Change this to your desired link color */
+  text-decoration: none;
+  margin-left: 20px;
+
 }
 
 
